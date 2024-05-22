@@ -1,4 +1,4 @@
-# ssdp
+# SSDP (Simple Service Discovery Protocol)
 SSDP Projekt
 @author Ahmed Asakra
 
